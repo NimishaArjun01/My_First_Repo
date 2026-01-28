@@ -1,0 +1,8 @@
+My name is Nimisha
+
+I am learning GitHub because I want to:
+- Understand version control
+- Collaborate on projects
+- Build my coding skills
+
+Today's date: 28-01-2016
